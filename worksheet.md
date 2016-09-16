@@ -1,5 +1,5 @@
-# Fange jetzt mit der Raspberry Pi Kamera
-
+# Getting started with picamera
+# ok
 The camera module is a great accessory for the Raspberry Pi, allowing users to take still pictures and record video in full HD.
 
 ## Connect the camera module
